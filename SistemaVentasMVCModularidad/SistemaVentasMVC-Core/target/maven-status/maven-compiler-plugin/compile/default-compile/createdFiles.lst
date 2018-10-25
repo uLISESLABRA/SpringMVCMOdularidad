@@ -1,0 +1,12 @@
+pe\edu\ulises\sistema\dao\PersonaDaoImpl.class
+pe\edu\ulises\sistema\dao\PersonaDaoI.class
+pe\edu\ulises\sistema\dao\VentaDaoImpl.class
+pe\edu\ulises\sistema\dao\ProductoDaoImpl.class
+pe\edu\ulises\sistema\dao\ProductoDaoI.class
+pe\edu\ulises\sistema\modelo\Persona.class
+pe\edu\ulises\sistema\modelo\Detalleventa.class
+pe\edu\ulises\sistema\SysDataAccess.class
+pe\edu\ulises\sistema\modelo\Venta.class
+pe\edu\ulises\sistema\modelo\Producto.class
+pe\edu\ulises\sistema\HibernateConfiguration.class
+pe\edu\ulises\sistema\dao\VentaDaoI.class
